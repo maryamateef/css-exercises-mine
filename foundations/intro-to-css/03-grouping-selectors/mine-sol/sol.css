@@ -1,0 +1,15 @@
+/** style sheet sol.css**/
+.black{
+    color: white;
+    background-color: black;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+
+.yellow, .black{
+    font-size: 28px;
+    font-family: Helvetica , "Times New Roman",sans-serif;
+}
