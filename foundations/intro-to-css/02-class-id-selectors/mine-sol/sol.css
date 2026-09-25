@@ -5,7 +5,7 @@ p{
     font-family:Verdana ,DejaVu Sans,sans-serif;
 }
 
-.second{
+#second{
     color:blue;
     font-size: 36px;
 }
@@ -14,7 +14,7 @@ p{
     font-size: 24px;
 }
 
-.forth{
+#forth{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
